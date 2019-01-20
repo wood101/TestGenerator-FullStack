@@ -1,0 +1,8 @@
+PUT http://localhost:3003/api/words/5c44b722ea5c491dc444a894
+content-type: application/json
+
+{
+  "translation": "Kakku",
+  "blankLength": 5,
+  "difficulty": "easy"
+}
